@@ -11,7 +11,7 @@
 주로 사용하는 언어 및 기술 스택입니다.
 
 ### **Hardware Description Language (HDL)**
-* **SystemVerilog** (IEEE 1800-2017)
+* **SystemVerilog**
 * **Verilog** (RTL Design)
 
 ### **EDA Tools & Platform**
