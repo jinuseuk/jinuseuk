@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 디지털 하드웨어 엔지니어 **진우석**입니다.
+# 안녕하세요! 진우석입니다.
 
 ## 🚀 Welcome to My Digital Playground!
 
