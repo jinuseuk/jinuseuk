@@ -53,7 +53,6 @@
 
 ## ✉️ Contact & More
 
-* E-mail: [Your Email Address]
-* Blog/Portfolio: [Your Blog or Portfolio Link]
+* E-mail: [dntjr1711@naver.com]
 
 ***
