@@ -12,7 +12,7 @@
 
 ### **Hardware Description Language (HDL)**
 * **SystemVerilog**
-* **Verilog** (RTL Design)
+* **Verilog**
 
 ### **EDA Tools & Platform**
 * **FPGA Design:** AMD Xilinx Vivado (2020.2+)
