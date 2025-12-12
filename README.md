@@ -43,14 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![진우석's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinuseuk&show_icons=true&theme=default&hide_border=true)
-
-> *위의 스탯은 GitHub 프로필 이름을 `jinuseuk`으로 가정하고 넣은 예시입니다. 실제 닉네임에 맞춰 수정해 주세요.*
-
----
-
 ## ✉️ Contact & More
 
 * E-mail: [dntjr1711@naver.com]
